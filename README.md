@@ -90,8 +90,9 @@ The best-performing model was selected based on these metrics.
 
 ---
 
+## Working on other evaluations and deployment
+
 ##  Author
 
-Your Name
-(Amisha-16)
+Amisha Srivastava
 
